@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
+
+
+/* asterístico é um seletor que seleciona todas as tags no html */
+/* margin é a margem, padding é o espaço entre o que estiver escrito e a magem*/
+/* box-sizzing -> deixa mais facil trabalhar com as caixas (margem, padding, border, etc)*/
+
+/* abriu a propriedade da "ul" para dizer qual é o estilo da lista, nesse caso foi nenhum*/
+
+/* sites para propriedades e tags -> MDN, W3Schools */
